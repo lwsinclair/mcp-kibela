@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kj455-mcp-kibela-badge.png)](https://mseep.ai/app/kj455-mcp-kibela)
+
 # mcp-kibela 🗒️
 
 [![smithery badge](https://smithery.ai/badge/@kj455/mcp-kibela)](https://smithery.ai/server/@kj455/mcp-kibela)
